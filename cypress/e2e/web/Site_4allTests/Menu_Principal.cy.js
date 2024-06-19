@@ -1,5 +1,4 @@
 /// <reference types="cypress" />
-
 describe('Menus 4allTests', () => {
     it("Validar Acesso a Pagina Home", () => {
         // Acessou a pagina
